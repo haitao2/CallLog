@@ -17,6 +17,8 @@ import java.util.Properties;
  * 消费者
  * 我修改了注释文件
  *nihao
+ 冲突测试
+ *
  */
 
 public class HbaseConsumer {
