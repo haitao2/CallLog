@@ -16,7 +16,7 @@ import java.util.Properties;
 /**
  * 消费者
  * 我修改了注释文件
- *
+ *nihao
  */
 
 public class HbaseConsumer {
@@ -26,6 +26,7 @@ public class HbaseConsumer {
         int c = 1;
         int f = 1;
         int h =1;
+        int m1 = 1;
         HbaseDao dao = new HbaseDao();
         //配置相应的属性
         Properties pro = new Properties();
