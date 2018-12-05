@@ -23,6 +23,7 @@ public class HbaseConsumer {
     public static void main(String[] args) {
         int b =1;
         int m=2;
+        int c = 1;
         HbaseDao dao = new HbaseDao();
         //配置相应的属性
         Properties pro = new Properties();
