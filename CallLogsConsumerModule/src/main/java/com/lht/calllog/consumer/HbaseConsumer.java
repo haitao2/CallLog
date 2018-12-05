@@ -16,11 +16,13 @@ import java.util.Properties;
 /**
  * 消费者
  * 我修改了注释文件
- * woshishi
+ *
  */
 
 public class HbaseConsumer {
     public static void main(String[] args) {
+        int b =1;
+        int m=2;
         HbaseDao dao = new HbaseDao();
         //配置相应的属性
         int a =12;
