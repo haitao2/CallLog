@@ -25,7 +25,6 @@ public class HbaseConsumer {
         int m=2;
         HbaseDao dao = new HbaseDao();
         //配置相应的属性
-        int a =12;
         Properties pro = new Properties();
         pro.put("zookeeper.connect", "es02:2181");
         //配置消费组
