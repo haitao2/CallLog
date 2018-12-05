@@ -29,6 +29,8 @@ public class HbaseConsumer {
         int f = 1;
         int h =1;
         int m1 = 1;
+        int c1 = 1;
+        int a1=1;
         HbaseDao dao = new HbaseDao();
         //配置相应的属性
         Properties pro = new Properties();
